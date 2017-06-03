@@ -1,2 +1,2 @@
 # Computer
-Dotfiles and setup for my computer
+Dotfiles and setup for my computer.

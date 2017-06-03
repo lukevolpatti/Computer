@@ -1,0 +1,17 @@
+tap 'caskroom/cask'
+
+brew 'git'
+brew 'npm'
+brew 'vim'
+
+cask 'brackets'
+cask 'sublime-text'
+cask 'atom'
+cask 'brackets'
+
+mas 'Slack', id: 803453959
+
+# To install in the future:
+# cask 'google-chrome'
+# cask 'firefox'
+
